@@ -21,7 +21,7 @@ import org.apache.http.util.EntityUtils;
 
 public class ConsumidorAPI {
     private static String URLBase = "http://api.olhovivo.sptrans.com.br/v2.1/";
-    private static String token = "e981f7515d268b79b6d1c8caa4c5124039b610c80ec7f4f27ac309cead50cea4";
+    private static String token = "";
     
     private static ConsumidorAPI instance;
     
